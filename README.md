@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi FYCS
+hello welcome to github
